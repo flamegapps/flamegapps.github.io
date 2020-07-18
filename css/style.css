@@ -48,6 +48,10 @@ nav{
   color: #250B72;
 }
 
+#home-section2 p{
+  opacity: 0.8;
+}
+
 #home-section2 h5{
   font-weight: bold;
 }
@@ -66,6 +70,14 @@ nav{
   text-align: center;
   font-weight: bold;
   text-transform: uppercase;
+}
+
+.about-section span{
+  opacity: 0.8;
+}
+
+#credits{
+  opacity: 0.8;
 }
 
 #download-section{
@@ -90,6 +102,7 @@ nav{
 
 .page-footer {
   background-color: #250B72;
+  margin-bottom: 0px;
 }
 
 .page-footer ul {
