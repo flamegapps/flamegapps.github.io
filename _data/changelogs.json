@@ -1,0 +1,45 @@
+[
+  {
+    "date": "2020-07-18",
+    "for": "Android 9.0 & 10.0",
+    "changes": ["Updated APKs", "Fixed messages for web"]
+  },
+  {
+    "date": "2020-07-09",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+      "Improved Installer",
+      "Built with the new FlameGApps build scripts"
+    ]
+  },
+  {
+    "date": "2020-06-26",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+      "Improved Installer",
+      "Added more paths to remove list",
+      "Clean flash is recommended for Pie users"
+    ]
+  },
+  {
+    "date": "2020-06-09",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+      "Updated Installer",
+      "Full edition zip size increased because the latest Google Message app is larger than previous versions"
+    ]
+  },
+  {
+    "date": "2020-05-26",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+      " Updated Config",
+      "Fixed some config related bugs",
+      "Added few paths to removable system app list"
+    ]
+  }
+]

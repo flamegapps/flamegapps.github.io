@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+    <head>
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    </head>
+    <body>
+        <div class="site">
+            {% include header.html %}
+            {% include hero.html %}
+            {{ content }}
+            {% include bottom.html %}
+        </div>
+
+        <script src="{{ "/assets/js/app.js" | relative_url }}"></script>
+    </body>
+</html>

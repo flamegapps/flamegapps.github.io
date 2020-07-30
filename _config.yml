@@ -1,6 +1,3 @@
-url: "https://flamegapps.github.io"
-description: "A Custom GApps Package For Arm64 Devices"
-keywords: flamegapps, flame gapps, gapps, gapps download, download flamegapps, flamegapps download, android 9, android 10
-
-plugins:
-  - jekyll-seo-tag
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "" # the name of your site, e.g. ACME Corp.

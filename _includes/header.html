@@ -1,18 +1,27 @@
-  <header>
+<header>
     <nav>
-      <div class="nav-wrapper container">
-        <a href="/" class="brand-logo left" id="branding"><i class="material-icons">label_important</i>FlameGApps </a>
-        <a href="#" data-target="mobile-demo" class="right sidenav-trigger" id="nav-btn"><i class="material-icons">menu</i></a>
-        <ul class="right" id="nav-hide">
-          <li><a href="/">HOME</a></li>
-          <li><a href="/about">ABOUT</a></li>
-          <li><a href="/download">DOWNLOAD</a></li>
+        <div class="branding">
+            <h1>
+                <a href="{{ "/" | relative_url }}">FlameGApps</a>
+            </h1>
+        </div>
+
+        <button class="hamburger">
+            <svg class="bi bi-three-dots" fill="currentColor" height="1em" viewbox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path d="M3 9.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm5 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm5 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z" fill-rule="evenodd"/>
+            </svg>
+        </button>
+
+        <ul class="menu">
+            <li>
+                <a href="{{ "/about" | relative_url }}">About</a>
+            </li>
+            <li>
+                <a href="{{ "/downloads" | relative_url }}">Downloads</a>
+            </li>
+            <li>
+                <a href="{{ "/downloads#changelogs" | relative_url }}">Changelogs</a>
+            </li>
         </ul>
-      </div>
     </nav>
-  </header>
-  <ul class="sidenav" id="mobile-demo">
-    <li><a href="/">HOME</a></li>
-    <li><a href="/about">ABOUT</a></li>
-    <li><a href="/download">DOWNLOAD</a></li>
-  </ul>
+</header>
