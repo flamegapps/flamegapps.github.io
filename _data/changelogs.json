@@ -1,5 +1,25 @@
 [
   {
+    "date": "2020-08-02",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+      "Updated addon.d script",
+      "Fixed contact sync issue for pie",
+      "Improved AOSP app remover"
+    ]
+  },
+  {
+    "date": "2020-07-27",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+      "Improved log taker function",
+      "Fixed bootloop on Q full",
+      "Fixed other issues"
+    ]
+  },
+  {
     "date": "2020-07-18",
     "for": "Android 9.0 & 10.0",
     "changes": ["Updated APKs", "Fixed messages for web"]
