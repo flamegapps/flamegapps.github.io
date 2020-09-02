@@ -4,7 +4,8 @@
     "for": "Android 9.0 & 10.0",
     "changes": [
       "Updated APKs",
-      "Updated Config"
+      "Updated Config",
+      "Fixed lags"
     ]
   },
   {
