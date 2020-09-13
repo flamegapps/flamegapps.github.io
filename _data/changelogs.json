@@ -1,5 +1,16 @@
 [
   {
+    "date": "2020-09-13",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+      "Updated mount functions",
+      "Added dynamic partition support",
+      "Cleaned & improved Installer",
+      "Other improvements"
+    ]
+  },
+  {
     "date": "2020-09-02",
     "for": "Android 9.0 & 10.0",
     "changes": [
