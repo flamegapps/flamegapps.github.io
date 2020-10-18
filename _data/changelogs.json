@@ -1,5 +1,22 @@
 [
   {
+    "date": "2020-10-18",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+      "Improved AOSP app remover",
+      "Improved addon.d script",
+      "Improved log taker function",
+	  "Removed Face Lock from pie",
+	  "Updated mount functions",
+	  "Fixed installation issues with dynamic partition",
+	  "Fixed gboard settings crashes",
+	  "Rearranged libs",
+	  "Simplified installation process",
+	  "Clean flash recommended"
+    ]
+  },
+  {
     "date": "2020-10-06",
     "for": "Android 9.0 & 10.0",
     "changes": [
