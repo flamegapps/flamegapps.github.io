@@ -1,5 +1,15 @@
 [
   {
+    "date": "2020-10-29",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+      "Updated installer",
+	  "Improved stock camera remover",
+	  "Improved config readability"
+    ]
+  },
+  {
     "date": "2020-10-18",
     "for": "Android 9.0 & 10.0",
     "changes": [
