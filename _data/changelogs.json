@@ -1,5 +1,15 @@
 [
   {
+    "date": "2020-11-05",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+      "Improved installer",
+	  "Signed zip with zipsigner",
+	  "Some fixes on addon.d script"
+    ]
+  },
+  {
     "date": "2020-10-29",
     "for": "Android 9.0 & 10.0",
     "changes": [
