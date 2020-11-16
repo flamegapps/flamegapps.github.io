@@ -1,5 +1,14 @@
 [
   {
+    "date": "2020-11-16",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+	  "Fixed 'Try Now' option of PlayStore",
+	  "Added Google Dialer Overlay"
+    ]
+  },
+  {
     "date": "2020-11-05",
     "for": "Android 9.0 & 10.0",
     "changes": [
