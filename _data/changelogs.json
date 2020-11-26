@@ -1,5 +1,16 @@
 [
   {
+    "date": "2020-11-26",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+	  "Updated config",
+	  "Updated aosp app remover",
+	  "Added option to remove 'Device Health Services' app (using config)",
+	  "Clean flash recommended"
+    ]
+  },
+  {
     "date": "2020-11-16",
     "for": "Android 9.0 & 10.0",
     "changes": [
