@@ -1,5 +1,15 @@
 [
   {
+    "date": "2020-12-04",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+	  "Fixed Google PlayStore issues",
+	  "Added symlink support for Markup & Gboard libs",
+	  "Clean flash recommended"
+    ]
+  },
+ {
     "date": "2020-11-26",
     "for": "Android 9.0 & 10.0",
     "changes": [
