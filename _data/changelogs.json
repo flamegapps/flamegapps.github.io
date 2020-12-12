@@ -1,5 +1,13 @@
 [
   {
+    "date": "2020-12-12",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+	  "Minor improvements"
+    ]
+  },
+  {
     "date": "2020-12-04",
     "for": "Android 9.0 & 10.0",
     "changes": [
