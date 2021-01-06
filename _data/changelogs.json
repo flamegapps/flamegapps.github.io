@@ -1,5 +1,16 @@
 [
   {
+    "date": "2020-01-06",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+	  "Removed GoogleLocationHistory app",
+	  "Fixed Location History Service",
+	  "Added Google Package Installer",
+	  "Clean flash recommended"
+    ]
+  },
+  {
     "date": "2020-12-25",
     "for": "Android 9.0 & 10.0",
     "changes": [
