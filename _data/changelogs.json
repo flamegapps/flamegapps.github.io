@@ -1,6 +1,22 @@
 [
   {
-    "date": "2020-01-06",
+    "date": "2021-01-17",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+	  "Updated gapps config",
+	  "Minor improvements in addon.d survival script",
+	  "GApps can now be flashed after first boot",
+	  "Switched to Google Photos normal variant",
+	  "gapps-config: Added config based gapps installation support",
+	  "gapps-config: Installer won't perform any removal after installing gapps anymore, instead It'll skip that particular gapps installation based on gapps config",
+	  "gapps-config: Added support to skip all gapps installation (except Core gapps)",
+	  "gapps-config: Added option to skip backup script (addon.d script) installation. Helpful for dynamic devices",
+	  "gapps-config: By default the stock cam will be removed by both editions, use gapps config to skip removal"
+    ]
+  },
+  {
+    "date": "2021-01-06",
     "for": "Android 9.0 & 10.0",
     "changes": [
       "Updated APKs",
