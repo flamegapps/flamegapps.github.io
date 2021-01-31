@@ -1,5 +1,16 @@
 [
-  {
+ {
+    "date": "2021-01-31",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+	  "Changed overlay context",
+	  "Stock/Snap camera won't be removed by the basic edition anymore",
+	  "Fixed user-apps getting wiped on dirty flash",
+	  "Some other minor improvements"
+    ]
+  },
+ {
     "date": "2021-01-17",
     "for": "Android 9.0 & 10.0",
     "changes": [
