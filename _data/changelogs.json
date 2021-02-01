@@ -1,4 +1,15 @@
-[
+[ 
+ {
+  "date": "2021-02-01",
+  "for": "Android 11",
+  "changes": [
+  "Updated APKs",
+  "Updated overlay context",
+  "Stock/Snap camera will no longer be removed in Basic edition",
+  "Fixed Fingerprint on Display and Face Unlock (ROM side) not working for some devices after flashing Full edition (thanks to xSylla for testing)",
+  "Some other minor improvements"
+  ]
+},
  {
     "date": "2021-01-31",
     "for": "Android 9.0 & 10.0",
