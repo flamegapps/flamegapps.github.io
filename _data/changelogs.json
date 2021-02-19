@@ -1,48 +1,57 @@
 [
- {
+  {
+    "date": "2021-02-19",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+      "Separated SoundPicker removal",
+      "Minor improvements"
+    ]
+  },
+  {
     "date": "2021-02-09",
     "for": "Android 9.0 & 10.0",
     "changes": [
       "Updated APKs",
-	  "Some minor improvements"
+      "Some minor improvements"
     ]
   },
- {
-	"date": "2021-02-01",
-	"for": "Android 11",
-	"changes": [
-	  "Updated APKs",
-	  "Updated overlay context",
-	  "Stock/Snap camera will no longer be removed in Basic edition",
-	  "Fixed Fingerprint on Display and Face Unlock (ROM side) not working for some devices after flashing Full edition (thanks to xSylla for testing)",
-	  "Some other minor improvements"
-	]
- },
- {
+  {
+    "date": "2021-02-01",
+    "for": "Android 11",
+    "changes": [
+      "Updated APKs",
+      "Updated overlay context",
+      "Stock/Snap camera will no longer be removed in Basic edition",
+      "Fixed Fingerprint on Display and Face Unlock (ROM side) not working for some devices after flashing Full edition (thanks to xSylla for testing)",
+      "Some other minor improvements"
+    ]
+  },
+  {
     "date": "2021-01-31",
     "for": "Android 9.0 & 10.0",
     "changes": [
       "Updated APKs",
-	  "Changed overlay context",
-	  "Stock/Snap camera won't be removed by the basic edition anymore",
-	  "Fixed user-apps getting wiped on dirty flash",
-	  "Some other minor improvements"
+      "Changed overlay context",
+      "Stock/Snap camera won't be removed by the basic edition anymore",
+      "Fixed user-apps getting wiped on dirty flash",
+      "Some other minor improvements"
     ]
   },
- {
+  {
     "date": "2021-01-17",
     "for": "Android 9.0 & 10.0",
     "changes": [
       "Updated APKs",
-	  "Updated gapps config",
-	  "Minor improvements in addon.d survival script",
-	  "GApps can now be flashed after first boot",
-	  "Switched to Google Photos normal variant",
-	  "gapps-config: Added config based gapps installation support",
-	  "gapps-config: Installer won't perform any removal after installing gapps anymore, instead It'll skip that particular gapps installation based on gapps config",
-	  "gapps-config: Added support to skip all gapps installation (except Core gapps)",
-	  "gapps-config: Added option to skip backup script (addon.d script) installation. Helpful for dynamic devices",
-	  "gapps-config: By default the stock cam will be removed by both editions, use gapps config to skip removal"
+      "Updated gapps config",
+      "Minor improvements in addon.d survival script",
+      "GApps can now be flashed after first boot",
+      "Switched to Google Photos normal variant",
+      "gapps-config: Added config based gapps installation support",
+      "gapps-config: Installer won't perform any removal after installing gapps anymore, instead It'll skip that particular gapps installation based on gapps config",
+      "gapps-config: Added support to skip all gapps installation (except Core gapps)",
+      "gapps-config: Added option to skip backup script (addon.d script) installation. Helpful for dynamic devices",
+      "gapps-config: By default the stock cam will be removed by both editions, use gapps config to skip removal"
     ]
   },
   {
@@ -50,10 +59,10 @@
     "for": "Android 9.0 & 10.0",
     "changes": [
       "Updated APKs",
-	  "Removed GoogleLocationHistory app",
-	  "Fixed Location History Service",
-	  "Added Google Package Installer",
-	  "Clean flash recommended"
+      "Removed GoogleLocationHistory app",
+      "Fixed Location History Service",
+      "Added Google Package Installer",
+      "Clean flash recommended"
     ]
   },
   {
@@ -61,9 +70,9 @@
     "for": "Android 9.0 & 10.0",
     "changes": [
       "Updated APKs",
-	  "Updated remove list",
-	  "Improved addon.d restoration",
-	  "Minor improvements"
+      "Updated remove list",
+      "Improved addon.d restoration",
+      "Minor improvements"
     ]
   },
   {
@@ -71,7 +80,7 @@
     "for": "Android 9.0 & 10.0",
     "changes": [
       "Updated APKs",
-	  "Minor improvements"
+      "Minor improvements"
     ]
   },
   {
@@ -79,20 +88,20 @@
     "for": "Android 9.0 & 10.0",
     "changes": [
       "Updated APKs",
-	  "Fixed Google PlayStore issues",
-	  "Added symlink support for Markup & Gboard libs",
-	  "Clean flash recommended"
+      "Fixed Google PlayStore issues",
+      "Added symlink support for Markup & Gboard libs",
+      "Clean flash recommended"
     ]
   },
- {
+  {
     "date": "2020-11-26",
     "for": "Android 9.0 & 10.0",
     "changes": [
       "Updated APKs",
-	  "Updated config",
-	  "Updated aosp app remover",
-	  "Added option to remove 'Device Health Services' app (using config)",
-	  "Clean flash recommended"
+      "Updated config",
+      "Updated aosp app remover",
+      "Added option to remove 'Device Health Services' app (using config)",
+      "Clean flash recommended"
     ]
   },
   {
@@ -100,8 +109,8 @@
     "for": "Android 9.0 & 10.0",
     "changes": [
       "Updated APKs",
-	  "Fixed 'Try Now' option of PlayStore",
-	  "Added Google Dialer Overlay"
+      "Fixed 'Try Now' option of PlayStore",
+      "Added Google Dialer Overlay"
     ]
   },
   {
@@ -110,8 +119,8 @@
     "changes": [
       "Updated APKs",
       "Improved installer",
-	  "Signed zip with zipsigner",
-	  "Some fixes on addon.d script"
+      "Signed zip with zipsigner",
+      "Some fixes on addon.d script"
     ]
   },
   {
@@ -120,8 +129,8 @@
     "changes": [
       "Updated APKs",
       "Updated installer",
-	  "Improved stock camera remover",
-	  "Improved config readability"
+      "Improved stock camera remover",
+      "Improved config readability"
     ]
   },
   {
@@ -132,13 +141,13 @@
       "Improved AOSP app remover",
       "Improved addon.d script",
       "Improved log taker function",
-	  "Removed Face Lock from pie",
-	  "Updated mount functions",
-	  "Fixed installation issues with dynamic partition",
-	  "Fixed gboard settings crashes",
-	  "Rearranged libs",
-	  "Simplified installation process",
-	  "Clean flash recommended"
+      "Removed Face Lock from pie",
+      "Updated mount functions",
+      "Fixed installation issues with dynamic partition",
+      "Fixed gboard settings crashes",
+      "Rearranged libs",
+      "Simplified installation process",
+      "Clean flash recommended"
     ]
   },
   {
@@ -229,7 +238,10 @@
   {
     "date": "2020-07-18",
     "for": "Android 9.0 & 10.0",
-    "changes": ["Updated APKs", "Fixed messages for web"]
+    "changes": [
+      "Updated APKs",
+      "Fixed messages for web"
+    ]
   },
   {
     "date": "2020-07-09",
