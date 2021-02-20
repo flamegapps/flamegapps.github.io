@@ -1,5 +1,13 @@
 [
   {
+    "date": "2021-02-20",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+      "Fixed Sound Picker getting wiped after installation"
+    ]
+  },
+  {
     "date": "2021-02-19",
     "for": "Android 9.0 & 10.0",
     "changes": [
