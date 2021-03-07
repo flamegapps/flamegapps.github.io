@@ -1,5 +1,13 @@
 [
   {
+    "date": "2021-03-06",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+      "Fixed gapps addon installation failure after updating ROM"
+    ]
+  },
+  {
     "date": "2021-02-20",
     "for": "Android 9.0 & 10.0",
     "changes": [
