@@ -1,5 +1,13 @@
 [
   {
+    "date": "2021-03-26",
+    "for": "Android 9.0 & 10.0",
+    "changes": [
+      "Updated APKs",
+      "Updated permissions"
+    ]
+  },
+  {
     "date": "2021-03-17",
     "for": "Android 9.0 & 10.0",
     "changes": [
