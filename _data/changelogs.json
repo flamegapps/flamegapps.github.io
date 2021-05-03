@@ -1,5 +1,14 @@
 [
   {
+    "date": "2021-05-03",
+    "for": "Android 9.0 | 10.0 | 11.0",
+    "changes": [
+      "Updated APKs",
+	  "Initial Android 11 stable release",
+	  "Improved stability"
+    ]
+  },
+  {
     "date": "2021-04-18",
     "for": "Android 9.0 & 10.0",
     "changes": [
