@@ -1,5 +1,13 @@
 [
   {
+    "date": "2021-05-24",
+    "for": "Android 9.0 | 10.0 | 11.0",
+    "changes": [
+      "Updated APKs",
+	  "Fixed wallpaper app crash (android 11 full edition)"
+    ]
+  },
+  {
     "date": "2021-05-09",
     "for": "Android 9.0 | 10.0 | 11.0",
     "changes": [
