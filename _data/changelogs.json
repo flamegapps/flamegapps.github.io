@@ -1,5 +1,15 @@
 [
   {
+    "date": "2021-06-12",
+    "for": "Android 9.0 | 10.0 | 11.0",
+    "changes": [
+      "Updated APKs",
+	  "Updated gapps-config (re-download to use latest features)",
+	  "Separate pixel config from core gapps installation (You have to use gapps-config to force install pixel config, otherwise it will be skipped)",
+	  "Clean flash recommended"
+    ]
+  },
+  {
     "date": "2021-06-06",
     "for": "Android 9.0 | 10.0 | 11.0",
     "changes": [
