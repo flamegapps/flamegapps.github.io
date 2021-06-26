@@ -1,5 +1,13 @@
 [
   {
+    "date": "2021-06-26",
+    "for": "Android 9.0 | 10.0 | 11.0",
+    "changes": [
+      "Updated APKs",
+	  "Added build date info in flame.prop (/system/etc/flame.prop)"
+    ]
+  },
+  {
     "date": "2021-06-19",
     "for": "Android 9.0 | 10.0 | 11.0",
     "changes": [
