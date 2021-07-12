@@ -1,5 +1,13 @@
 [
   {
+    "date": "2021-07-12",
+    "for": "Android 9.0 | 10.0 | 11.0",
+    "changes": [
+      "Updated APKs",
+	  "Fixed Android Auto"
+    ]
+  },
+  {
     "date": "2021-06-26",
     "for": "Android 9.0 | 10.0 | 11.0",
     "changes": [
