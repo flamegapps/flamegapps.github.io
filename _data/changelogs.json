@@ -1,5 +1,13 @@
 [
   {
+    "date": "2021-07-18",
+    "for": "Android 9.0 | 10.0 | 11.0",
+    "changes": [
+      "Updated APKs",
+	  "Minor improvements"
+    ]
+  },
+  {
     "date": "2021-07-12",
     "for": "Android 9.0 | 10.0 | 11.0",
     "changes": [
