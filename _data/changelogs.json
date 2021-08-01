@@ -2,104 +2,82 @@
   {
     "date": "2021-07-18",
     "for": "Android 9.0 | 10.0 | 11.0",
-    "changes": [
-      "Updated APKs",
-	  "Minor improvements"
-    ]
+    "changes": ["Updated APKs", "Minor improvements"]
   },
   {
     "date": "2021-07-12",
     "for": "Android 9.0 | 10.0 | 11.0",
-    "changes": [
-      "Updated APKs",
-	  "Fixed Android Auto"
-    ]
+    "changes": ["Updated APKs", "Fixed Android Auto"]
   },
   {
     "date": "2021-06-26",
     "for": "Android 9.0 | 10.0 | 11.0",
     "changes": [
       "Updated APKs",
-	  "Added build date info in flame.prop (/system/etc/flame.prop)"
+      "Added build date info in flame.prop (/system/etc/flame.prop)"
     ]
   },
   {
     "date": "2021-06-19",
     "for": "Android 9.0 | 10.0 | 11.0",
-    "changes": [
-      "Updated APKs",
-    ]
+    "changes": ["Updated APKs"]
   },
   {
     "date": "2021-06-12",
     "for": "Android 9.0 | 10.0 | 11.0",
     "changes": [
       "Updated APKs",
-	  "Updated gapps-config (re-download to use latest features)",
-	  "Separate pixel config from core gapps installation (You have to use gapps-config to force install pixel config, otherwise it will be skipped)",
-	  "Clean flash recommended"
+      "Updated gapps-config (re-download to use latest features)",
+      "Separate pixel config from core gapps installation (You have to use gapps-config to force install pixel config, otherwise it will be skipped)",
+      "Clean flash recommended"
     ]
   },
   {
     "date": "2021-06-06",
     "for": "Android 9.0 | 10.0 | 11.0",
-    "changes": [
-      "Updated APKs"
-    ]
+    "changes": ["Updated APKs"]
   },
   {
     "date": "2021-05-24",
     "for": "Android 9.0 | 10.0 | 11.0",
     "changes": [
       "Updated APKs",
-	  "Fixed wallpaper app crash (android 11 full edition)"
+      "Fixed wallpaper app crash (android 11 full edition)"
     ]
   },
   {
     "date": "2021-05-09",
     "for": "Android 9.0 | 10.0 | 11.0",
-    "changes": [
-      "Updated APKs",
-    ]
+    "changes": ["Updated APKs"]
   },
   {
     "date": "2021-05-03",
     "for": "Android 9.0 | 10.0 | 11.0",
     "changes": [
       "Updated APKs",
-	  "Initial Android 11 stable release",
-	  "Improved stability"
+      "Initial Android 11 stable release",
+      "Improved stability"
     ]
   },
   {
     "date": "2021-04-18",
     "for": "Android 9.0 & 10.0",
-    "changes": [
-      "Updated APKs",
-    ]
+    "changes": ["Updated APKs"]
   },
   {
     "date": "2021-04-03",
     "for": "Android 9.0 & 10.0",
-    "changes": [
-      "Updated APKs",
-    ]
+    "changes": ["Updated APKs"]
   },
   {
     "date": "2021-03-26",
     "for": "Android 9.0 & 10.0",
-    "changes": [
-      "Updated APKs",
-      "Updated permissions"
-    ]
+    "changes": ["Updated APKs", "Updated permissions"]
   },
   {
     "date": "2021-03-17",
     "for": "Android 9.0 & 10.0",
-    "changes": [
-      "Updated APKs",
-      "Minor improvements"
-    ]
+    "changes": ["Updated APKs", "Minor improvements"]
   },
   {
     "date": "2021-03-06",
@@ -129,10 +107,7 @@
   {
     "date": "2021-02-09",
     "for": "Android 9.0 & 10.0",
-    "changes": [
-      "Updated APKs",
-      "Some minor improvements"
-    ]
+    "changes": ["Updated APKs", "Some minor improvements"]
   },
   {
     "date": "2021-02-01",
@@ -196,10 +171,7 @@
   {
     "date": "2020-12-12",
     "for": "Android 9.0 & 10.0",
-    "changes": [
-      "Updated APKs",
-      "Minor improvements"
-    ]
+    "changes": ["Updated APKs", "Minor improvements"]
   },
   {
     "date": "2020-12-04",
@@ -302,27 +274,17 @@
   {
     "date": "2020-09-02",
     "for": "Android 9.0 & 10.0",
-    "changes": [
-      "Updated APKs",
-      "Updated Config",
-      "Fixed lags"
-    ]
+    "changes": ["Updated APKs", "Updated Config", "Fixed lags"]
   },
   {
     "date": "2020-08-26",
     "for": "Android 9.0 & 10.0",
-    "changes": [
-      "Updated APKs",
-      "Updated Config"
-    ]
+    "changes": ["Updated APKs", "Updated Config"]
   },
   {
     "date": "2020-08-18",
     "for": "Android 9.0 & 10.0",
-    "changes": [
-      "Updated APKs",
-      "Updated Config"
-    ]
+    "changes": ["Updated APKs", "Updated Config"]
   },
   {
     "date": "2020-08-09",
@@ -356,10 +318,7 @@
   {
     "date": "2020-07-18",
     "for": "Android 9.0 & 10.0",
-    "changes": [
-      "Updated APKs",
-      "Fixed messages for web"
-    ]
+    "changes": ["Updated APKs", "Fixed messages for web"]
   },
   {
     "date": "2020-07-09",
