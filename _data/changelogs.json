@@ -1,5 +1,16 @@
 [
   {
+    "date": "2021-08-29",
+    "for": "Android 10.0 | 11.0",
+    "changes": [
+      "Updated APKs",
+	  "Updated removal list",
+	  "Added space checker",
+	  "Abort the installation if insufficient partition space",
+	  "Major improvements in the installer"
+    ]
+  },
+  {
     "date": "2021-08-22",
     "for": "Android 10.0 | 11.0",
     "changes": [
