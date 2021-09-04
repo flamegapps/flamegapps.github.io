@@ -1,5 +1,14 @@
 [
   {
+    "date": "2021-09-04",
+    "for": "Android 10.0 | 11.0",
+    "changes": [
+      "Updated APKs",
+	  "Fixed installer was unable to detect config from folder containing space in its name",
+	  "Fixed installer was unable to push logs to a folder containing space in its name"
+    ]
+  },
+  {
     "date": "2021-08-29",
     "for": "Android 10.0 | 11.0",
     "changes": [
