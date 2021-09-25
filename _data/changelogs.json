@@ -1,5 +1,17 @@
 [
   {
+    "date": "2021-09-25",
+    "for": "Android 10.0 | 11.0",
+    "changes": [
+      "Updated APKs",
+      "Fixed mounting issues",
+      "Stock/Snap camera app won't be removed by default in full edition (you can use the latest gapps-config to remove it)",
+      "Added gapps installation support for /product (for Q & R) & /system_ext (for R) partitions",
+      "Note: Clean flash highly recommended",
+      "Note: Do not flash addons older than September 2021"
+    ]
+  },
+  {
     "date": "2021-09-12",
     "for": "Android 10.0 | 11.0",
     "changes": ["Updated APKs", "Updated permissions", "Updated removal list"]
