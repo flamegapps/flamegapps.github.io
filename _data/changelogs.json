@@ -1,5 +1,10 @@
 [
   {
+    "date": "2021-11-15",
+    "for": "Android 10.0 | 11.0",
+    "changes": ["Updated APKs"]
+  },
+  {
     "date": "2021-11-07",
     "for": "Android 10.0 | 11.0",
     "changes": ["Updated APKs"]
