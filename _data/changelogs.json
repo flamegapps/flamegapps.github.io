@@ -1,5 +1,15 @@
 [
   {
+    "date": "2021-12-09",
+    "for": "Android 10.0 | 11.0",
+    "changes": [
+      "Updated APKs",
+      "Added missing permissions",
+      "Fixed bootloop",
+      "Minor improvements"
+    ]
+  },
+  {
     "date": "2021-12-04",
     "for": "Android 10.0 | 11.0",
     "changes": ["Updated APKs", "Updated permissions"]
