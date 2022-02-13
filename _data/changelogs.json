@@ -1,5 +1,14 @@
 [
   {
+    "date": "2022-02-13",
+    "for": "Android 10.0 | 11.0 | 12.0",
+    "changes": ["Updated APKs",
+      "Attempted to fix free space detection issue on some devices",
+      "This build should boot perfectly on every device",
+      "Minor improvements"
+    ]
+  },
+  {
     "date": "2022-02-04",
     "for": "Android 10.0 | 11.0 | 12.0",
     "changes": ["Updated APKs", "Initial Android 12 stable release"]
