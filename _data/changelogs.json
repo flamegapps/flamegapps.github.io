@@ -1,5 +1,14 @@
 [
   {
+    "date": "2022-03-26",
+    "for": "Android 10.0 | 11.0 | 12.0",
+    "changes": [
+      "Updated APKs",
+      "Install pixel migrate on pixel devices only",
+      "Minor improvements"
+    ]
+  },
+  {
     "date": "2022-03-07",
     "for": "Android 10.0 | 11.0 | 12.0",
     "changes": ["Updated APKs", "Updated permissions"]
