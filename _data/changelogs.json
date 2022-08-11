@@ -1,5 +1,10 @@
 [
   {
+    "date": "2022-08-11",
+    "for": "Android 10.0 | 11.0 | 12.0 | 12.1",
+    "changes": ["Updated APKs"]
+  },
+  {
     "date": "2022-06-12",
     "for": "Android 10.0 | 11.0 | 12.0 | 12.1",
     "changes": ["Updated APKs", "Updated permissions"]
