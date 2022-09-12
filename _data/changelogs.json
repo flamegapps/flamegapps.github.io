@@ -1,5 +1,14 @@
 [
   {
+    "date": "2022-09-12",
+    "for": "Android 10.0 | 11.0 | 12.0 | 12.1",
+    "changes": [
+      "Updated APKs",
+      "Improved mounting",
+      "Updated permissions"
+    ]
+  },
+  {
     "date": "2022-08-11",
     "for": "Android 10.0 | 11.0 | 12.0 | 12.1",
     "changes": ["Updated APKs"]
